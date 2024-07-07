@@ -8,7 +8,7 @@ public class Test2 extends Test1 {
 		
 		Test2  obj = new Test2();
 		Test2 obj2 = new Test2();
-	
+		Test2 obj3 = new Test3();
 	
 	}
 
