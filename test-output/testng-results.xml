@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-05T09:48:52 IST" name="Default suite" finished-at="2024-07-05T09:49:26 IST" duration-ms="34520">
+    <groups>
+    </groups>
+    <test started-at="2024-07-05T09:48:52 IST" name="Default test" finished-at="2024-07-05T09:49:26 IST" duration-ms="34520">
+      <class name="testScripts.TC_02_VerifyDemoFunctionality">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:testScripts.TC_02_VerifyDemoFunctionality@56a4479a]" started-at="2024-07-05T09:48:52 IST" name="browserSetup" finished-at="2024-07-05T09:49:20 IST" duration-ms="28286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="startTest()[pri:0, instance:testScripts.TC_02_VerifyDemoFunctionality@56a4479a]" started-at="2024-07-05T09:49:20 IST" name="startTest" finished-at="2024-07-05T09:49:20 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="TC_01_verifyPageTitle()[pri:0, instance:testScripts.TC_02_VerifyDemoFunctionality@56a4479a]" started-at="2024-07-05T09:49:20 IST" name="TC_01_verifyPageTitle" finished-at="2024-07-05T09:49:26 IST" duration-ms="5839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_verifyPageTitle -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:testScripts.TC_02_VerifyDemoFunctionality@56a4479a]" started-at="2024-07-05T09:49:26 IST" name="endTest" finished-at="2024-07-05T09:49:26 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- testScripts.TC_02_VerifyDemoFunctionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
