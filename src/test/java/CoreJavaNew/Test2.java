@@ -1,15 +1,16 @@
 package CoreJavaNew;
 
 import COREJAVAConcepts.Test1;
+import COREJAVAConcepts.Test3;
 
 public class Test2 extends Test1 {
 
 	public static void main(String[] args) {
-		
-		Test2  obj = new Test2();
+
+		Test2 obj = new Test2();
 		Test2 obj2 = new Test2();
-		Test2 obj3 = new Test3();
-	
+		// Test2 obj3 = new Test3();
+
 	}
 
 }
